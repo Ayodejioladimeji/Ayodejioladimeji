@@ -3,9 +3,9 @@
 I'm Layobright
 <br/>
 <h3 align="center"> 
-A frontend Engineer building and maintaining a responsive web App in the recruiting industry.
+A frontend Engineer building and maintaining a responsive Web App in the recruiting industry.
 </h3>
-
+<br/>
 
 - 🔭 I’m currently working on Map Location Tracker Web App
 - 🌱 I’m currently learning React-Native
@@ -16,13 +16,17 @@ A frontend Engineer building and maintaining a responsive web App in the recruit
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-- 🌱 Check my portfolio [https:oladimejiayodeji](https://oladimejiayodeji.netlify.app)
+- 🌱 Check my portfolio [https://oladimejiayodeji.netlify.app](https://oladimejiayodeji.netlify.app)
 
-## Some Statistics About Me
+<h2 align="center">
+Some Statistics About Me <br/>
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Ayodejioladimeji&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)
+</h2>
 
 
 ### Programming Languages and Tools
+<p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -51,3 +55,5 @@ A frontend Engineer building and maintaining a responsive web App in the recruit
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</p>
