@@ -6,6 +6,7 @@ I'm Layobright
 A frontend Engineer building and maintaining a responsive web App in the recruiting industry.
 </h3>
 
+
 - 🔭 I’m currently working on Map Location Tracker Web App
 - 🌱 I’m currently learning React-Native
 - 👯 I’m looking to collaborate on MERN stack projects
