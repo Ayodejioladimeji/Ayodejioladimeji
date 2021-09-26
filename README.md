@@ -1,7 +1,7 @@
-<h1 align="center">
+<h1 align="center" color="#00ff00">
  Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 I'm Layobright
-<h1>
+<br/>
 <h3 align="center"> 
 A frontend Engineer building and maintaining a responsive web App in the recruiting industry.
 </h3>
