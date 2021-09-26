@@ -23,7 +23,7 @@ A frontend Engineer building and maintaining a responsive Web App in the recruit
 
 
 ### Programming Languages and Tools
-<p align="center">
+<p align="center" display="flex">
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
