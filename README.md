@@ -2,9 +2,6 @@
 <h1 align="center"> Hello, I'm Ayodeji Oladimeji</h1>
 <h3 align="center">🚀 Frontend Engineer 🚀</h3>
 
-<p align="center">[Check my portfolio here](https://oladimejiayodeji.netlify.app)</p>
-
-
 
 - 🔭 I’m currently working on Map Location Tracker Web App
 - 🌱 I’m currently learning React-Native
@@ -14,6 +11,8 @@
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:alayosingers@gmail.com)
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+- 🌱 Check my portfolio ![https:oladimejiayodeji](https://oladimejiayodeji.netlify.app)
 
 ## Some Statistics About Me
 ![Abhinav's github stats](https://github-readme-stats.vercel.app/api?username=Ayodejioladimeji&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)
