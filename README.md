@@ -62,8 +62,8 @@ A frontend Engineer building and maintaining responsive Web Apps in the recruiti
     <img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white">
    <img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white">
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&logo=react&logoColor=%2361DAFB">
-<img alt="reactnative" src=https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=white">
-<img alt="redux" src=https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">  
+<img alt="reactnative" src="https://img.shields.io/badge/react_native-%2320232a.svg?&logo=react&logoColor=white">
+<img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white">  
     <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-%23663399.svg?logo=Gatsby&logoColor=white">
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jQuery&logoColor=white">
     <img alt="vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white">
