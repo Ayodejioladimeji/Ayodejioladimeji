@@ -6,11 +6,9 @@ I'm Layobright
 <h3 align="center" style="color:yellow"> 
 A frontend Engineer building and maintaining responsive Web Apps in the recruiting industry.
 </h3>
-<br/>
 
-<p align="center" style="text-align:center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&vCenter=true&width=435&lines=I+build products...;I+Solve+Problems...;I+transform+Ideas+into+reality...">
-</p>
+<p align="center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&vCenter=true&width=435&lines=I+transform+Ideas+into+reality..."><p/>
 
 <br/>
 
